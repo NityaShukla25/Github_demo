@@ -1,3 +1,1 @@
-a=5;
-b=7;
-c=9;
+Jai shree ram 
